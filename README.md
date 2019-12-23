@@ -10,4 +10,4 @@ We have used the "time on task" usability metric to show that our implementation
 
 Redesigned Protoype link (Using Axure RP tool): https://2elbly.axshare.com/ 
 
-Please refer to pooject report for complete understanding of the process of redesigning, results and conclusions.
+Please refer to project report for complete understanding of the process of redesigning, results and conclusions.
