@@ -1,4 +1,4 @@
-# Webiste Redesign for Enhanced Usability Experience through Usability Metrics.
+# Website Redesign for Enhanced Usability Experience through Usability Metrics.
 
 Grocery Monk (“https://grocerymonk.com/”) is an E-commerce website that lets a user order aromatic spices, herbs, grocery and various other food items that are imported from India and get them deliver at your doorstep. There are many concerns in terms of usability and user experience for this website.
 
